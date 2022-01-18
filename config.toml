@@ -1,0 +1,4 @@
+baseURL = 'https://imminent-teachnology.github.io'
+languageCode = 'en-us'
+title = 'Imminent Teachnology'
+theme = 'PaperMod'
